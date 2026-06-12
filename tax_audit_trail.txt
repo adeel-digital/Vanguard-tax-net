@@ -1,0 +1,250 @@
+================================================================================
+FBR TAX INTELLIGENCE PLATFORM - AUTOMATED AUDIT TRAIL
+Generated on: 2026-06-13
+Targeting top 10 highest compliance deviation profiles.
+================================================================================
+
+
+CASE PROFILE #1: Aisha Hussain
+  CNIC:                 91635-5610839-0
+  City:                 Multan
+  Risk Band:            High Risk (Deviation Score: 100.00)
+  GNN Anomaly Prob:     0.9997
+  Declared Income:      PKR 224,960.00
+  Tax Paid:             PKR 0.00
+  Est. Annual Upkeep:   PKR 9,929,558.64
+  ASSET INVENTORY & TRANSACTIONS:
+    * Registered Vehicles: None found
+    * Property Deeds:
+      - Commercial in Karachi (240 SqYd) | Address: House No. 32, Street 34, DHA Phase 6, Karachi | Value: PKR 144,336,845.00
+      - Commercial in Gujranwala (5 Marla) | Address: House No. 531, Street 38, Main Town, Gujranwala | Value: PKR 116,541,102.00
+    * Utility Bills: 10 invoices | Annual Total: PKR 2,839,628.70
+    * Formal Banking Portfolios:
+      - UBL Account: PK92UBL8671009273 | Avg Balance: PKR 178,348,375.00 | Volume: PKR 615,332,623.25
+    * International Travel History:
+      - Destination: Dubai | Date: 2025-09-16 | Cost: PKR 1,872,371.00
+  AUDIT EVALUATION SUMMARY:
+    [CRITICAL] Severe wealth-to-income mismatch. Est. annual lifestyle maintenance (PKR 9,929,558.64) exceeds declared income (PKR 224,960.00) by 44.1x.
+    Action: Initiate detailed lifestyle audit.
+--------------------------------------------------------------------------------
+
+
+CASE PROFILE #2: Aisha Mahmood
+  CNIC:                 42287-7881036-2
+  City:                 Quetta
+  Risk Band:            High Risk (Deviation Score: 100.00)
+  GNN Anomaly Prob:     0.9958
+  Declared Income:      PKR 9,191.00
+  Tax Paid:             PKR 0.00
+  Est. Annual Upkeep:   PKR 7,831,389.19
+  ASSET INVENTORY & TRANSACTIONS:
+    * Registered Vehicles: None found
+    * Property Deeds:
+      - Commercial in Sialkot (1 Kanal) | Address: House No. 621, Street 36, Main Town, Sialkot | Value: PKR 136,045,041.00
+    * Utility Bills: 10 invoices | Annual Total: PKR 2,804,150.37
+    * Formal Banking Portfolios:
+      - MCB Account: PK55MCB9775073777 | Avg Balance: PKR 66,856,169.00 | Volume: PKR 139,398,889.19
+    * International Travel History:
+      - Destination: Istanbul | Date: 2025-06-04 | Cost: PKR 2,306,338.00
+  AUDIT EVALUATION SUMMARY:
+    [CRITICAL] Severe wealth-to-income mismatch. Est. annual lifestyle maintenance (PKR 7,831,389.19) exceeds declared income (PKR 9,191.00) by 852.1x.
+    Action: Initiate detailed lifestyle audit.
+--------------------------------------------------------------------------------
+
+
+CASE PROFILE #3: Ahmad Iqbal
+  CNIC:                 62231-5423016-0
+  City:                 Peshawar
+  Risk Band:            High Risk (Deviation Score: 100.00)
+  GNN Anomaly Prob:     0.9959
+  Declared Income:      PKR 208,581.00
+  Tax Paid:             PKR 5,000.00
+  Est. Annual Upkeep:   PKR 9,783,845.34
+  ASSET INVENTORY & TRANSACTIONS:
+    * Registered Vehicles:
+      - Toyota Prado 2700cc (2018) | Plate: LHR-617-B | Value: PKR 13,200,000.00
+    * Property Deeds:
+      - Commercial in Lahore (10 Marla) | Address: Hous No. 694, Street 38, Hayatabad Phase 1, Peshawar | Value: PKR 127,791,075.00
+    * Utility Bills: 10 invoices | Annual Total: PKR 3,427,299.84
+    * Formal Banking Portfolios: None found
+    * International Travel History:
+      - Destination: Jeddah | Date: 2025-03-20 | Cost: PKR 2,480,724.00
+  AUDIT EVALUATION SUMMARY:
+    [CRITICAL] Severe wealth-to-income mismatch. Est. annual lifestyle maintenance (PKR 9,783,845.34) exceeds declared income (PKR 208,581.00) by 46.9x.
+    Action: Initiate detailed lifestyle audit.
+--------------------------------------------------------------------------------
+
+
+CASE PROFILE #4: Amna Shah
+  CNIC:                 62859-6320402-9
+  City:                 Sialkot
+  Risk Band:            High Risk (Deviation Score: 100.00)
+  GNN Anomaly Prob:     1.0000
+  Declared Income:      PKR 329,650.00
+  Tax Paid:             PKR 5,000.00
+  Est. Annual Upkeep:   PKR 16,500,052.30
+  ASSET INVENTORY & TRANSACTIONS:
+    * Registered Vehicles: None found
+    * Property Deeds:
+      - Commercial in Lahore (5 Marla) | Address: HNo. 819, St 19, Main Town, Sialkot | Value: PKR 123,440,420.00
+      - Commercial in Faisalabad (10 Marla) | Address: House No. 298, Street 15, Main Town, Faisalabad | Value: PKR 115,162,457.00
+      - Commercial in Quetta (120 SqYd) | Address: House No. 377, Street 11, Cantonment, Quetta | Value: PKR 72,814,398.00
+      - Commercial in Lahore (120 SqYd) | Address: House No. 480, Street 16, Wapda Town, Lahore | Value: PKR 131,377,421.00
+    * Utility Bills: 10 invoices | Annual Total: PKR 2,985,679.38
+    * Formal Banking Portfolios:
+      - MCB Account: PK90MCB1772396259 | Avg Balance: PKR 134,856,580.00 | Volume: PKR 574,244,998.75
+    * International Travel History:
+      - Destination: Istanbul | Date: 2025-04-28 | Cost: PKR 847,189.00
+      - Destination: London | Date: 2025-06-27 | Cost: PKR 1,454,135.00
+      - Destination: London | Date: 2025-02-12 | Cost: PKR 2,357,155.00
+  AUDIT EVALUATION SUMMARY:
+    [CRITICAL] Severe wealth-to-income mismatch. Est. annual lifestyle maintenance (PKR 16,500,052.30) exceeds declared income (PKR 329,650.00) by 50.1x.
+    Action: Initiate detailed lifestyle audit.
+--------------------------------------------------------------------------------
+
+
+CASE PROFILE #5: Hamza Ali
+  CNIC:                 88136-2678931-9
+  City:                 Karachi
+  Risk Band:            High Risk (Deviation Score: 100.00)
+  GNN Anomaly Prob:     0.9575
+  Declared Income:      PKR 72,494.00
+  Tax Paid:             PKR 0.00
+  Est. Annual Upkeep:   PKR 8,673,738.71
+  ASSET INVENTORY & TRANSACTIONS:
+    * Registered Vehicles:
+      - Audi A6 3000cc (2026) | Plate: ICT-278-B | Value: PKR 24,000,000.00
+    * Property Deeds:
+      - Commercial in Peshawar (10 Marla) | Address: House No. 519, Street 7, Peshawar Cantt, Peshawar | Value: PKR 88,620,067.00
+    * Utility Bills: 10 invoices | Annual Total: PKR 2,188,677.37
+    * Formal Banking Portfolios: None found
+    * International Travel History:
+      - Destination: Singapore | Date: 2025-09-14 | Cost: PKR 2,312,660.00
+  AUDIT EVALUATION SUMMARY:
+    [CRITICAL] Severe wealth-to-income mismatch. Est. annual lifestyle maintenance (PKR 8,673,738.71) exceeds declared income (PKR 72,494.00) by 119.6x.
+    Action: Initiate detailed lifestyle audit.
+--------------------------------------------------------------------------------
+
+
+CASE PROFILE #6: Amna Shah
+  CNIC:                 43871-4332371-0
+  City:                 Karachi
+  Risk Band:            High Risk (Deviation Score: 100.00)
+  GNN Anomaly Prob:     0.9999
+  Declared Income:      PKR 175,838.00
+  Tax Paid:             PKR 5,000.00
+  Est. Annual Upkeep:   PKR 11,224,321.36
+  ASSET INVENTORY & TRANSACTIONS:
+    * Registered Vehicles: None found
+    * Property Deeds:
+      - Commercial in Quetta (1 Kanal) | Address: House No. 426, Street 24, Cantonment, Quetta | Value: PKR 149,173,465.00
+      - Commercial in Multan (120 SqYd) | Address: House No. 629, Street 25, Main Town, Multan | Value: PKR 141,481,343.00
+    * Utility Bills: 10 invoices | Annual Total: PKR 3,046,124.20
+    * Formal Banking Portfolios:
+      - UBL Account: PK95UBL6769177268 | Avg Balance: PKR 139,431,048.00 | Volume: PKR 296,795,793.13
+    * International Travel History:
+      - Destination: Istanbul | Date: 2025-10-20 | Cost: PKR 2,365,101.00
+  AUDIT EVALUATION SUMMARY:
+    [CRITICAL] Severe wealth-to-income mismatch. Est. annual lifestyle maintenance (PKR 11,224,321.36) exceeds declared income (PKR 175,838.00) by 63.8x.
+    Action: Initiate detailed lifestyle audit.
+--------------------------------------------------------------------------------
+
+
+CASE PROFILE #7: Kamran Jatoi
+  CNIC:                 61327-1161453-8
+  City:                 Quetta
+  Risk Band:            High Risk (Deviation Score: 100.00)
+  GNN Anomaly Prob:     0.9878
+  Declared Income:      PKR 142,917.00
+  Tax Paid:             PKR 0.00
+  Est. Annual Upkeep:   PKR 9,095,599.73
+  ASSET INVENTORY & TRANSACTIONS:
+    * Registered Vehicles:
+      - Toyota Prado 2700cc (2020) | Plate: LHR-365-A | Value: PKR 15,400,000.00
+      - Audi A6 3000cc (2019) | Plate: KHI-367-C | Value: PKR 15,600,000.00
+    * Property Deeds:
+      - Commercial in Peshawar (240 SqYd) | Address: Hse No. 518, Streeet 21, Jinnah Town, Quetta | Value: PKR 130,644,097.00
+    * Utility Bills: 10 invoices | Annual Total: PKR 3,382,717.79
+    * Formal Banking Portfolios:
+      - UBL Account: PK62UBL9272875561 | Avg Balance: PKR 35,642,200.00 | Volume: PKR 125,664,302.76
+    * International Travel History: None found
+  AUDIT EVALUATION SUMMARY:
+    [CRITICAL] Severe wealth-to-income mismatch. Est. annual lifestyle maintenance (PKR 9,095,599.73) exceeds declared income (PKR 142,917.00) by 63.6x.
+    Action: Initiate detailed lifestyle audit.
+--------------------------------------------------------------------------------
+
+
+CASE PROFILE #8: Adeel Butt
+  CNIC:                 13112-7828078-8
+  City:                 Quetta
+  Risk Band:            High Risk (Deviation Score: 100.00)
+  GNN Anomaly Prob:     0.9991
+  Declared Income:      PKR 280,782.00
+  Tax Paid:             PKR 0.00
+  Est. Annual Upkeep:   PKR 8,613,507.20
+  ASSET INVENTORY & TRANSACTIONS:
+    * Registered Vehicles:
+      - Toyota Fortuner 2800cc (2026) | Plate: ICT-862-B | Value: PKR 16,000,000.00
+    * Property Deeds:
+      - Commercial in Lahore (1 Kanal) | Address: House No. 862, Street 15, Gulberg III, Lahore | Value: PKR 133,299,510.00
+    * Utility Bills: None found
+    * Formal Banking Portfolios:
+      - Bank Alfalah Account: PK74BAN9707983918 | Avg Balance: PKR 184,225,287.00 | Volume: PKR 646,952,852.87
+      - MCB Account: PK91MCB1139428238 | Avg Balance: PKR 187,007,378.00 | Volume: PKR 552,940,380.63
+    * International Travel History:
+      - Destination: Istanbul | Date: 2025-11-17 | Cost: PKR 1,284,851.00
+      - Destination: London | Date: 2025-01-25 | Cost: PKR 1,811,670.00
+      - Destination: Dubai | Date: 2025-03-09 | Cost: PKR 1,250,996.00
+  AUDIT EVALUATION SUMMARY:
+    [CRITICAL] Severe wealth-to-income mismatch. Est. annual lifestyle maintenance (PKR 8,613,507.20) exceeds declared income (PKR 280,782.00) by 30.7x.
+    Action: Initiate detailed lifestyle audit.
+--------------------------------------------------------------------------------
+
+
+CASE PROFILE #9: Aisha Ali
+  CNIC:                 85976-9595025-8
+  City:                 Quetta
+  Risk Band:            High Risk (Deviation Score: 100.00)
+  GNN Anomaly Prob:     0.9755
+  Declared Income:      PKR 228,357.00
+  Tax Paid:             PKR 0.00
+  Est. Annual Upkeep:   PKR 5,633,902.64
+  ASSET INVENTORY & TRANSACTIONS:
+    * Registered Vehicles:
+      - Audi A6 3000cc (2023) | Plate: KHI-441-A | Value: PKR 20,400,000.00
+    * Property Deeds:
+      - Commercial in Karachi (240 SqYd) | Address: H. No. 165, Streeet 16, Jinnah Town, Quetta | Value: PKR 93,537,282.00
+    * Utility Bills: None found
+    * Formal Banking Portfolios:
+      - Meezan Bank Account: PK47MEE6337494796 | Avg Balance: PKR 67,124,539.00 | Volume: PKR 177,589,092.64
+      - MCB Account: PK76MCB8651155816 | Avg Balance: PKR 43,389,796.00 | Volume: PKR 188,468,464.82
+    * International Travel History:
+      - Destination: London | Date: 2025-04-16 | Cost: PKR 1,723,157.00
+  AUDIT EVALUATION SUMMARY:
+    [CRITICAL] Severe wealth-to-income mismatch. Est. annual lifestyle maintenance (PKR 5,633,902.64) exceeds declared income (PKR 228,357.00) by 24.7x.
+    Action: Initiate detailed lifestyle audit.
+--------------------------------------------------------------------------------
+
+
+CASE PROFILE #10: Naveed Abbasi
+  CNIC:                 60998-3242463-7
+  City:                 Multan
+  Risk Band:            High Risk (Deviation Score: 100.00)
+  GNN Anomaly Prob:     0.9713
+  Declared Income:      PKR 219,448.00
+  Tax Paid:             PKR 0.00
+  Est. Annual Upkeep:   PKR 7,073,141.51
+  ASSET INVENTORY & TRANSACTIONS:
+    * Registered Vehicles:
+      - Toyota Prado 2700cc (2022) | Plate: KHI-238-C | Value: PKR 17,600,000.00
+    * Property Deeds:
+      - Commercial in Islamabad (240 SqYd) | Address: House No. 98, Street 37, Sector G-11, Islamabad | Value: PKR 98,494,810.00
+    * Utility Bills: 10 invoices | Annual Total: PKR 2,076,450.31
+    * Formal Banking Portfolios: None found
+    * International Travel History:
+      - Destination: Dubai | Date: 2025-07-23 | Cost: PKR 1,266,795.00
+  AUDIT EVALUATION SUMMARY:
+    [CRITICAL] Severe wealth-to-income mismatch. Est. annual lifestyle maintenance (PKR 7,073,141.51) exceeds declared income (PKR 219,448.00) by 32.2x.
+    Action: Initiate detailed lifestyle audit.
+--------------------------------------------------------------------------------
+
